@@ -2,6 +2,7 @@
 # BOOLEAN #
 ###########
 
+# all(iterable): return
 # all(iterable): returns True if all elements of iterable are true (or if the iterable is empty), False otherwise
 print(all([True, True, True]))  # True
 print (all ([True, False, True]))  # False
